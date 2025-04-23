@@ -26,5 +26,3 @@ pip freeze
 ```
 
 Create an uploads folder 
-
-Create uploads folder 
