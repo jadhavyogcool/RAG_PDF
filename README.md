@@ -1,10 +1,18 @@
 # RAG_PDF
+# Deployment
+
+To deploy this project run
+
+Create Virtual Environment
+```
+python -m venv venv   
+```
 Activate Virtual Environment
 ```
 # On Windows:
-myvenv\Scripts\activate
+venv\Scripts\activate
 # On Linux
-source myvenv/bin/activate
+source venv/bin/activate
 ```
 Install all dependencies
 ```
@@ -16,5 +24,7 @@ freeze dependencies
 ```
 pip freeze
 ```
+
+Create an uploads folder 
 
 Create uploads folder 
